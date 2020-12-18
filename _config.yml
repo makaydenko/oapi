@@ -1,9 +1,3 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
-
 theme: jekyll-theme-leap-day
+title: Objects API Documentation
+description: One more solution of API architecture
